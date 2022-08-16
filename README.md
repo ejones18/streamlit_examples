@@ -10,6 +10,15 @@ A few examples from my learning journey with Streamlit.io
 
 ![blog page](./imgs/blog.png)
 
+## Instructions to run any application within this repo
+
+* Navigate over to the relevent directory for the app you wish to run e.g., the 'blog_app' directory.
+* Run the command ```streamlit run <file_name.py>```
+
+### Example usage
+
+```<C://.../.../blog_app> streamlit run homepage.py```
+
 ## References / resources
 
 * [API reference](https://docs.streamlit.io/library/api-reference)
