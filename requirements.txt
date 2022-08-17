@@ -1,3 +1,7 @@
 streamlit
 numpy
 pandas
+tensorflow
+tensorflow_hub
+cv2
+matplotlib
